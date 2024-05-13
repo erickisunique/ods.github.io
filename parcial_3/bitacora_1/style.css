@@ -46,11 +46,11 @@ nav{
 /* customizacion de los links */
 nav a{
     text-align: justify; 
-    width:90px;
+    width:100px;
     color:rgb(252, 181, 131);
     text-decoration: none;
     font-size: 20px;
-    margin-left: 65px; 
+    margin-left: 55px; 
 /*agrandar area sensible :))*/
     display: inline-block; 
    
